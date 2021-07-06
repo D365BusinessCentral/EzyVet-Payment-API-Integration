@@ -1,0 +1,39 @@
+{
+  "id": "fa0cc7bd-63c1-4774-9e59-6032b59fa753",
+  "name": "EzyVet Payment API Integration",
+  "publisher": "Artis Group",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "fa0cc7bd-63c1-4774-9e59-6032b59fa749",
+      "name": "EzyVet API Configuration",
+      "publisher": "Artis Group",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "fa0cc7bd-63c1-4774-9e59-6032b59fa752",
+      "name": "EzyVet Invoice API Integration",
+      "publisher": "Artis Group",
+      "version": "1.0.0.0"
+    }    
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50101,
+      "to": 50130
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Extensions.com/help/",
+  "showMyCode": true,
+  "runtime": "6.5"
+}
